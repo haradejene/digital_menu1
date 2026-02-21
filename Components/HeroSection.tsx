@@ -239,7 +239,7 @@ export default function HeroSection() {
           <div className="flex justify-center mt-1">
             <div className="flex items-center space-x-1">
               <div className="w-1.5 h-1.5 rounded-full bg-[#F9C73D] animate-pulse"></div>
-              <div className="text-[10px] font-inter text-white/50">Auto-scrolling • Touch to pause</div>
+
             </div>
           </div>
         </div>
